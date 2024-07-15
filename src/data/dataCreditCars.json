@@ -1,0 +1,3 @@
+[{"id":1,"type":"visa","number":"3570146895792559","expirationMonth":11,"expirationYear":30,"bank":"Aivee","owner":"Dillon Boram","cssClassName":"green"},
+{"id":2,"type":"mastercard","number":"3581699973465743","expirationMonth":8,"expirationYear":36,"bank":"Centimia","owner":"Nico Ellson","cssClassName":"gray"},
+{"id":3,"type":"visa","number":"3532093587733136","expirationMonth":11,"expirationYear":28,"bank":"Meezzy","owner":"Maire Harbord","cssClassName":"gold"}]
